@@ -21,11 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/anjali-0352b1248/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Anjali-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjali-0352b1248/"></a>
-  
    <a href="https://twitter.com/yashika_22_"><img alt="Twitter" src="https://img.shields.io/badge/-@yashika_22_-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yashika_22_"></a>
-   
    <a href="anjaligariya2233@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-anjali@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=anjaligariya2233@gmail.com"></a>
-   
   <a href="https://medium.com/@yashika22789"><img alt="Medium" src="https://img.shields.io/badge/-@yashika22789-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@yashika22789"></a>
 
 </p>
