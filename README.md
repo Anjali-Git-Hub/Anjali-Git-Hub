@@ -10,12 +10,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anjali-Git-Hub](https://github.com/Anjali-Git-Hub)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Anjali2Hashnode](https://hashnode.com/@Anjali2Hashnode)
-
 - 📫 How to reach me **anjaligariya2233@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Anjali-Git-Hub](https://github.com/Anjali-Git-Hub)
-
+  
+- 😄 **Pronouns:** he/him
+  
 - ⚡ Fun fact **I will think of it later...**
 
 <h3 align="left">Connect with me:</h3>
