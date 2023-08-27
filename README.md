@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-git-hub" /> </p>
 
 <!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
-<img align="right" height="150" width="210" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
+<img align="right" height="160" width="230" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
 
 - 🌱 I’m currently learning **Backend Web Development**
 
