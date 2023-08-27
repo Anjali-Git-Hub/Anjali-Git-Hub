@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anjaligariya2233@gmail.com**
   
-- 😄 **Pronouns:** he/him
+- 😄 **Pronouns:** she/her
   
 - ⚡ Fun fact **I will think of it later...**
 
