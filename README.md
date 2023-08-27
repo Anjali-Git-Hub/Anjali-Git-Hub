@@ -34,3 +34,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali-git-hub&show_icons=true&locale=en" alt="anjali-git-hub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-git-hub&" alt="anjali-git-hub" /></p>
+
+<h3>📈 My Github History!</h3>
+<hr>
+
+![Snake animation](https://github.com/Anjali-Git-Hub/Anjali-Git-Hub/blob/output/github-contribution-grid-snake.svg)
