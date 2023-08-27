@@ -16,6 +16,8 @@
   
 - ⚡ Fun fact **I will think of it later...**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/anjali-0352b1248/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Anjali-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjali-0352b1248/"></a>
