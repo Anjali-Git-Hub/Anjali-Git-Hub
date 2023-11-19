@@ -12,11 +12,11 @@
 - 😄 **Pronouns:** she/her
 
 - Currently working on 2 series - Javascript Journeys , NetworkNex .
-    https://helpingtechies.hashnode.dev/series/js-journeys
-    https://helpingtechies.hashnode.dev/series/computer-networks .
+    <a href="https://helpingtechies.hashnode.dev/series/js-journeys">Javascript Journeys</a> <br>
+    <a href="https://helpingtechies.hashnode.dev/series/computer-networks">NetworkNex</a><br>
     Here are the links, go and watch the series and enjoy 🤗🤩
   
-- ☕  If you like my work, you can buy me a coffee and share your thoughts 🎉☕ https://www.buymeacoffee.com/yashika227x
+- ☕  If you like my work, you can buy me a <a href=" https://www.buymeacoffee.com/yashika227x">coffee</a> and share your thoughts 🎉☕
   
 - ⚡ Fun fact **I will think of it later...**
 
