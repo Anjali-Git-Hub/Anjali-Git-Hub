@@ -13,7 +13,7 @@
 
 - Currently working on 2 series - Javascript Journeys , NetworkNex .
     https://helpingtechies.hashnode.dev/series/js-journeys
-    https://helpingtechies.hashnode.dev/series/computer-networks
+    https://helpingtechies.hashnode.dev/series/computer-networks .
     Here are the links, go and watch the series and enjoy 🤗🤩
   
 - ☕  If you like my work, you can buy me a coffee and share your thoughts 🎉☕ https://www.buymeacoffee.com/yashika227x
