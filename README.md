@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/anjali-0352b1248/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Anjali-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjali-0352b1248/"></a>
-   <a href="https://twitter.com/yashika_22_"><img alt="Twitter" src="https://img.shields.io/badge/-@yashika_22_-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yashika_22_"></a>
-   <a href="yashika22789@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-yashika@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=yashika22789@gmail.com"></a>
+   <a href="https://twitter.com/codecwriter"><img alt="Twitter" src="https://img.shields.io/badge/-@codecwriter-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/codecwriter"></a>
+   <a href="yashika22789@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-yashika22789@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=yashika22789@gmail.com"></a>
 
 
 </p>
