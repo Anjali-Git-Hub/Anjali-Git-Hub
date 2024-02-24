@@ -5,16 +5,9 @@
 <!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
 <img align="right" height="160" width="230" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anjali-Git-Hub](https://github.com/Anjali-Git-Hub)
-
-- 📫 How to reach me **anjaligariya2233@gmail.com**
+- 📫 How to reach me **yashika22789@gmail.com**
   
 - 😄 **Pronouns:** she/her
-
-- Currently working on 2 series - Javascript Journeys , NetworkNex <br> 
-    <a href="https://helpingtechies.hashnode.dev/series/js-journeys">Javascript Journeys</a> <br>
-    <a href="https://helpingtechies.hashnode.dev/series/computer-networks">NetworkNex</a><br>
-    Here are the links, go and watch the series and enjoy 🤗🤩
   
 - ☕  If you like my work, you can buy me a  <a href="https://www.buymeacoffee.com/yashika227x">Koffee</a> and share your thoughts 🎉☕
   
